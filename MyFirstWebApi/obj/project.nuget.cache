@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qmcGMYj8CEKR1rpUgTsEIpjJq8+99bswsUy8pf5SWxL9mvoLuT98Gxz2xhzm8Pa98vGuqBf9UNxrwDaOTRiF8Q==",
+  "dgSpecHash": "1kOaGJVn/eUO+rNuO+/mc1cDcs1qc0OSB3qKlycZhG9E4UOHtH4VQNC9zgrEDTosYRK7YlQa7qE/ij3kDWTqGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Furious\\source\\repos\\MyFirstWebApi\\MyFirstWebApi.csproj",
+  "projectFilePath": "E:\\Docker\\MyFirstWebApi\\MyFirstWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Furious\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
   ],

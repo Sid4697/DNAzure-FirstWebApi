@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Docker\\MyFirstWebApi\\MyFirstWebApi.csproj": {}
+    "E:\\Docker\\MyFirstWebApi\\MyFirstWebApp.csproj": {}
   },
   "projects": {
-    "E:\\Docker\\MyFirstWebApi\\MyFirstWebApi.csproj": {
+    "E:\\Docker\\MyFirstWebApi\\MyFirstWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Docker\\MyFirstWebApi\\MyFirstWebApi.csproj",
-        "projectName": "MyFirstWebApi",
-        "projectPath": "E:\\Docker\\MyFirstWebApi\\MyFirstWebApi.csproj",
+        "projectUniqueName": "E:\\Docker\\MyFirstWebApi\\MyFirstWebApp.csproj",
+        "projectName": "MyFirstWebApp",
+        "projectPath": "E:\\Docker\\MyFirstWebApi\\MyFirstWebApp.csproj",
         "packagesPath": "C:\\Users\\Furious\\.nuget\\packages\\",
         "outputPath": "E:\\Docker\\MyFirstWebApi\\obj\\",
         "projectStyle": "PackageReference",

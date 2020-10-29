@@ -88,11 +88,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Furious\\source\\repos\\MyFirstWebApi\\MyFirstWebApi.csproj",
-      "projectName": "MyFirstWebApi",
-      "projectPath": "C:\\Users\\Furious\\source\\repos\\MyFirstWebApi\\MyFirstWebApi.csproj",
+      "projectUniqueName": "E:\\Docker\\MyFirstWebApi\\MyFirstWebApp.csproj",
+      "projectName": "MyFirstWebApp",
+      "projectPath": "E:\\Docker\\MyFirstWebApi\\MyFirstWebApp.csproj",
       "packagesPath": "C:\\Users\\Furious\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Furious\\source\\repos\\MyFirstWebApi\\obj\\",
+      "outputPath": "E:\\Docker\\MyFirstWebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Furious\\AppData\\Roaming\\NuGet\\NuGet.Config",
